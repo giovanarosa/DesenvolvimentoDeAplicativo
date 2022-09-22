@@ -1,0 +1,53 @@
+# Este é o título tamanho 1
+## Este é o título tamanho 3
+### Este é o título tamanho 4
+#### Este é o título tamanho 5
+##### Este é o título tamanho 6
+1 é o maior (decrescente).
+
+Meu nome é: **Giovana** e estou aprendendo __MarkDown__
+Negrito
+
+Meu nome é: *Giovana* e estou aprendendo _MarkDown_
+italico
+
+Meu nome é: __*Giovana*__
+Negrito e italico
+
+**Lista Numerada**
+1. Tarefa 
+1. Tarefa 
+1. Tarefa 
+1. Tarefa 
+Se você colocar o mesmo numero na frente de varias coisas ele
+vai enumeralas.
+
+**Lista Numerada**
+* Tarefa 
+* Tarefa 
+* Tarefa 
+* Tarefa 
+Se colocar * vai colocar uma bolinha.
+
+**Lista com marcadores**
+
+- [x] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+Bolinhas marcando coisas "x" fica marcado e sem "x" fica sem marcar
+
+Vamos lá [Acesse um video da Anitta](https://youtu.be/hFCjGiawJi4)
+Vamos lá [Acesse o Google](google.com)
+Com isso o link vai estar na frase entre []
+
+Cod|Descrição|Versão|Data
+---|---|---|---
+1|Tarefa1|1.0|01/08/22
+2|Tarefa2|2.0|02/12/22
+Tabelas.
+
+Olha meu código 
+```
+print('Olá mundo')
+```
+Deixar o código em evidência.
